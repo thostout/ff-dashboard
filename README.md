@@ -54,3 +54,12 @@ Built to deliberately practice, in order:
 ## Local setup
 
 _Coming in Step 1._
+
+## Development workflow
+
+1. Branch off `main`: `git checkout -b <type>/<short-description>`
+   (types: `feat`, `fix`, `chore`, `docs`)
+2. Commit in small, focused chunks with clear messages
+3. Push and open a PR into `main`
+4. CI must pass before merging (once Step 2 is set up)
+5. Delete the branch after merging
