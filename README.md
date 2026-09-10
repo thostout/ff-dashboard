@@ -4,7 +4,7 @@ A tool for managing an ESPN fantasy football team: live scoreboard, roster
 conflict checks, waiver/trade suggestions, and a news layer — built to
 practice the full lifecycle of a real web app, not just the happy path.
 
-**Status:** 🚧 In progress — Step 0 (repo setup)
+**Status:**  In progress — Step 0 (repo setup)
 
 ## Stack
 
