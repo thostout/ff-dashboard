@@ -28,7 +28,7 @@ Built to deliberately practice, in order:
 ## Roadmap
 
 - [x] **0** — Repo, `.gitignore`, README, branch/PR workflow
-- [ ] **1** — Skeleton: `web/` (Vite + React) + `server/` (Express), TS, one working fetch
+- [x] **1** — Skeleton: `web/` (Vite + React) + `server/` (Express), TS, one working fetch
 - [ ] **2** — CI: typecheck + dummy test on every PR, branch protection on
 - [ ] **3** — ESPN API auth (league ID + cookies in `.env`), render roster names
 - [ ] **3.5** — Live scoreboard for current matchup
